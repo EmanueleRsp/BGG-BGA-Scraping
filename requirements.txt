@@ -1,0 +1,7 @@
+requests==2.31.0            # For making HTTP requests
+lxml==4.9.3                 # For XML parsing
+pandas==2.1.2               # For data manipulation and structuring
+tqdm==4.67.1                # For a progress bar
+beautifulsoup4==4.12.2      # For HTML parsing
+selenium==4.12.0            # For browser automation
+webdriver_manager==4.0.2    # For managing browser drivers
