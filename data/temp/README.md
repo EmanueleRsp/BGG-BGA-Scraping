@@ -1,3 +1,3 @@
 # BGG-BGA-Scraping/data/temp/
 
-In this directory temp scraped data (usernames) and the original csv file are saved.
+In this directory temp scraped data (usernames) is saved.
